@@ -5,7 +5,7 @@ Given the nature of the data I deal with, I have developed a number of programs 
 My github page is a place where I am storing a lot of this work that might be helpful for other students and researchers dealing with these data.
 You will also find some personal pet-projects on here relating to inertial sensing, dashboards, data analytics, and web-development.
 
-I primarily work with MATLAB and R Stats, Though I am learning python, and dabbling in HTML, CSS, and JavaScript.
+I primarily work with Python, MATLAB and R Stats, and dabble in HTML, CSS, and JavaScript.
 
 Feel free to reach out on twitter @JesseCharlton_
 
