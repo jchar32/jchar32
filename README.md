@@ -7,7 +7,5 @@ You will also find some personal pet-projects on here relating to inertial sensi
 
 I primarily work with Python, MATLAB, Labview, and R Stats, while I dabble in HTML, CSS, and JavaScript.
 
-Feel free to reach out on twitter @JesseCharlton_
-
 If you like research, feel free to check out some of my work on google scholor: scholar.google.ca/citations?user=loW3DVcAAAAJ&hl=en
 
